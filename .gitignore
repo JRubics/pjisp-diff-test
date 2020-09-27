@@ -1,0 +1,10 @@
+# test files
+.template
+.templates/
+assignment.rst
+assignment_notes.rst
+assignment_solution.c
+fixtures/
+
+# byte code
+pjisp_diff/__init__.pyc
